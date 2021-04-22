@@ -1,0 +1,16 @@
+C:\Users\Hp\Desktop\ControlStatement\bin\Debug\net5.0\ControlStatement.exe
+C:\Users\Hp\Desktop\ControlStatement\bin\Debug\net5.0\ControlStatement.deps.json
+C:\Users\Hp\Desktop\ControlStatement\bin\Debug\net5.0\ControlStatement.runtimeconfig.json
+C:\Users\Hp\Desktop\ControlStatement\bin\Debug\net5.0\ControlStatement.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\ControlStatement\bin\Debug\net5.0\ControlStatement.dll
+C:\Users\Hp\Desktop\ControlStatement\bin\Debug\net5.0\ref\ControlStatement.dll
+C:\Users\Hp\Desktop\ControlStatement\bin\Debug\net5.0\ControlStatement.pdb
+C:\Users\Hp\Desktop\ControlStatement\obj\Debug\net5.0\ControlStatement.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\ControlStatement\obj\Debug\net5.0\ControlStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\ControlStatement\obj\Debug\net5.0\ControlStatement.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\ControlStatement\obj\Debug\net5.0\ControlStatement.AssemblyInfo.cs
+C:\Users\Hp\Desktop\ControlStatement\obj\Debug\net5.0\ControlStatement.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\ControlStatement\obj\Debug\net5.0\ControlStatement.dll
+C:\Users\Hp\Desktop\ControlStatement\obj\Debug\net5.0\ref\ControlStatement.dll
+C:\Users\Hp\Desktop\ControlStatement\obj\Debug\net5.0\ControlStatement.pdb
+C:\Users\Hp\Desktop\ControlStatement\obj\Debug\net5.0\ControlStatement.genruntimeconfig.cache
